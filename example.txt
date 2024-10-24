@@ -1,1 +1,2 @@
-This is example
+This is example hi
+New text
